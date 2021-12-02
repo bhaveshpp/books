@@ -1,3 +1,3 @@
 # All Books
 
-[Bhagavad Gita](/bhagavad-gita/ "Bhagavad Gita")
+[Bhagavad Gita]({%uri%}/bhagavad-gita/ "Bhagavad Gita")
