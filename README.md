@@ -1,3 +1,3 @@
 # All Books
 
-- [Bhagavad Gita](/bhagavad-gita/ "Bhagavad Gita")
+[Bhagavad Gita](/bhagavad-gita/ "Bhagavad Gita")
