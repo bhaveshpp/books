@@ -1,4 +1,6 @@
 /* Steve jobs' book */
+@import url('https://fonts.googleapis.com/css2?family=Amita&family=Kalam&family=Noto+Sans:wght@700&family=Oswald:wght@400;600&family=Poppins:wght@400;500;700&family=Ranga&family=Rubik:wght@300;500&family=Source+Sans+Pro:wght@300&family=Teko&family=Yatra+One&display=swap');
+
 
 @font-face {
 	font-family: 'Stempel-Garamond-W01-Roman';
@@ -365,6 +367,7 @@ span.chap {
     margin-top: 20px;
     margin-bottom: 60px;
     display: block;
+	font-family: 'Yatra Ones', cursive;
 }
 
 h3.shlok {
