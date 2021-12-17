@@ -222,23 +222,6 @@ body, ul, table, form{
 	background-position:right 0;
 }
 
-
-.sj-book .p2{
-	background-position:-480px 0 !important;
-}
-
-.sj-book .p3{
-	background-position:-1920px 0 !important;
-}
-
-.sj-book .p111{
-	background-position:-960px 0 !important;
-}
-
-.sj-book .p112{
-	background-position:-1440px 0 !important;
-}
-
 .sj-book .hard{
 	width:480px;
 	height:600px;
