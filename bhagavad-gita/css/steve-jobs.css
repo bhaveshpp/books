@@ -47,7 +47,7 @@
 	  font-size: 38px;
 	  font-weight: lighter;
 	  text-align: center;
-	  margin: 20px 0;
+	  margin: 40px 60px;
 	  color: #333;
 	  -webkit-text-fill-color: #333;
 	  -webkit-text-stroke-color: white;
@@ -365,7 +365,7 @@
 span.chap {
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 60px;
+    margin-bottom: 20px;
     display: block;
 	font-family: 'Yatra Ones', cursive;
 }
