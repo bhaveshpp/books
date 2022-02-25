@@ -1,3 +1,3 @@
 git add .
-git commit -m "adding new comment..."
+git commit -m "$1"
 git push 
